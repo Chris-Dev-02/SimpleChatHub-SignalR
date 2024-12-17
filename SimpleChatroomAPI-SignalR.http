@@ -1,0 +1,6 @@
+@SimpleChatroomAPI_SignalR_HostAddress = http://localhost:5274
+
+GET {{SimpleChatroomAPI_SignalR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
